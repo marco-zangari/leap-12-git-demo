@@ -1,5 +1,5 @@
 # leap-12-git-demo
-this is a test repository
+here is a new change.
 
 this is another test repository.
 
