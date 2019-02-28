@@ -1,5 +1,5 @@
 # leap-12-git-demo
-here is a new change.
+design in the machine.
 
 this is another test repository.
 
